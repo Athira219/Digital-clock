@@ -1,0 +1,18 @@
+#currentTime{
+    background-color:rgb(26, 23, 23);
+    color: #ccc;
+    font-size: 145px;
+    height: 200px;
+    width: 1000px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid rgb(29, 23, 23);
+    border-radius: 5px;
+    box-shadow: 0px 7px  6px ;
+    box-shadow: 0px 7px 6px rgba(33, 30, 30, 0.701),
+                -0px -4px 5px rgba(71, 71, 71, 0.21) ;
+    
+    
+
+    
+}
